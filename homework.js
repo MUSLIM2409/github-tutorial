@@ -48,7 +48,7 @@ console.assert(4<3, "4 is not greater than 3");
 console.clear()
 */
 //=========================================01.20.24 class======================================================================
-/*
+
 class Person {
     constructor(firstName, lastName) {
         this.firstName = firstName;
@@ -59,7 +59,7 @@ class Person {
 const person1 = new Person('Asabeneh', 'Yetayeh');
 
 console.log(person1);
-*/
+
 /*
 class Person {
     constructor(
